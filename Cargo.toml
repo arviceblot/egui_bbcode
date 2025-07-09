@@ -1,0 +1,8 @@
+[package]
+name = "egui_bbcode"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bbcode-tagger = "0.2.0"
+eframe = "0.31.1"
